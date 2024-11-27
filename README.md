@@ -118,6 +118,7 @@ The system integrates **Node-RED**, **InfluxDB**, and **Azure IoT Hub** for seam
 ![Azure db snippet](https://github.com/user-attachments/assets/af2dd624-cae5-407d-ad1e-5c29a4e58685)
 
 ### Prototype
+
 ![inner view](https://github.com/user-attachments/assets/710a9d4b-94f1-473b-b403-f9489a67d481)
 ![outer view](https://github.com/user-attachments/assets/0129b172-61ae-42a5-950e-e1411231405c)
 ![bottom view](https://github.com/user-attachments/assets/6c6c7b20-2cbf-4a5d-83ee-c0337ff48ea5)

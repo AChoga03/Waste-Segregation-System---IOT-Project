@@ -85,8 +85,9 @@ The system integrates **Node-RED**, **InfluxDB**, and **Azure IoT Hub** for seam
 
    - **Azure IoT Hub Dashboards:** Display payload summaries for high-level system monitoring.
 
+## Basic flow of Data
 
-**Arduino Sensors** -> **Node-RED (Serial Block)** -> **Process Waste Type** -> **InfluxDB** -> **Azure IoT Hub** -> **Dashboards (InfluxDB/Grafana)**
+# Arduino Sensors # -> Node-RED (Serial Block) -> Process Waste Type# -> InfluxDB -> Azure IoT Hub -> Dashboards (InfluxDB/Grafana)
 
 ---
 

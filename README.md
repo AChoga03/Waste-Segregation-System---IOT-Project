@@ -80,6 +80,7 @@ The system integrates **Node-RED**, **InfluxDB**, and **Azure IoT Hub** for seam
 
 3. **Data Storage and Visualization**  
    - **InfluxDB Allocations and Grafana Dashboards:** Provide real-time insights into the system's operations, such as waste distribution trends and sorting efficiency.
+     
    ![InfluxDB Allocations](https://github.com/user-attachments/assets/1e7468a6-9bfd-4ded-ba85-7083732144cc)
 
    - **Azure IoT Hub Dashboards:** Display payload summaries for high-level system monitoring.
@@ -91,19 +92,28 @@ The system integrates **Node-RED**, **InfluxDB**, and **Azure IoT Hub** for seam
 
 ## Screenshots
 
-### Node-RED Flow  
+### Node-RED Flow
+
 ![Node-RED Flow](https://github.com/user-attachments/assets/b3368a23-e4ab-44cb-983f-903c2fed9ca7)
+
 *Displays the data flow, from Arduino serial readings to Azure and InfluxDB.*
+
 **Process waste type-Config**
+
 ![process waste type](https://github.com/user-attachments/assets/b1b8c872-003a-46f1-a479-ea13e3dd7ac0)
 
 **Azure Payload-Config**
+
 ![Azure Payload](https://github.com/user-attachments/assets/6b07a6d8-7f8a-4ab7-843e-98e3968de1e2)
 
-### Azure IoT Hub Dashboard  
+### Azure IoT Hub Dashboard
+
 ![Azure Dashboard](https://github.com/user-attachments/assets/a243d757-a512-4cc2-a4b9-3d54514fc56a)
+
 *Payloads received from Node-RED for cloud-based monitoring.*
+
 **Azure Database code snippet**
+
 ![Azure db snippet](https://github.com/user-attachments/assets/af2dd624-cae5-407d-ad1e-5c29a4e58685)
 
 ### Prototype
